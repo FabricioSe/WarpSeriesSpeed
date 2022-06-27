@@ -17,3 +17,4 @@ exit(0);
 1606175788_1935:"Notice: WSS, 127.0.0.1; Customize_changeset status has been changed; details: ID: 1142,Old status: auto-draft,New status: publish,Title: "
 1606176224_0599:"Notice: WSS, 127.0.0.1; Post status has been changed; details: ID: 1144,Old status: new,New status: auto-draft,Title: Auto Draft"
 1656362671_1943:"Notice: 127.0.0.1; User authentication succeeded: WSS"
+1656363014_1713:"Warning: WSS, 127.0.0.1; Plugin activated: Simply Static (v2.1.5.8; simply-static\/simply-static.php)"
