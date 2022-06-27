@@ -1,0 +1,6 @@
+Jun 27 2022 20:43:32
+{"type":2,"message":"fopen(D:\\xampp\\htdocs\\WarpSeriesSpeed\/\/D:\/xampp\/htdocs\/WarpSeriesSpeed\/wp-content\/uploads\/sucuri\/.htaccess): failed to open stream: No such file or directory","file":"D:\\xampp\\htdocs\\WarpSeriesSpeed\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":98}
+
+Jun 27 2022 20:43:32
+{"type":2,"message":"fopen(D:\\xampp\\htdocs\\WarpSeriesSpeed\/\/D:\/xampp\/htdocs\/WarpSeriesSpeed\/wp-content\/uploads\/sucuri\/.htaccess): failed to open stream: No such file or directory","file":"D:\\xampp\\htdocs\\WarpSeriesSpeed\\wp-content\\plugins\\sucuri-scanner\\src\\hardening.lib.php","line":98}
+
